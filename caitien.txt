@@ -21,7 +21,8 @@ Cải tiến 4: làm hệ thống alarm cho báo xxy lanh bị kẹt
 
 cách: (plc)
 
-coppy of Tuyen
+coppy of Tuyen Ngao
+
 
 
 
