@@ -1,0 +1,24 @@
+cải tiến 1:cải tiến an toàn ở nú ems
+lý do khở động lại ems thì hoạt động vẫn được diễn ra 
+cách:tạo mạch duy trì cho các relay điều khiển hoạt động, đi kèm 1 trong các hoạt động sau:
+1. thay tất cả switch bằng button
+2. dùng switch không dữ vị trí
+3. mỗi xy lanh dùng 1 button điều khiển(vd : nhấn thì đi ra, nhả thì đi vào . riêng điều khiển motor dùng 2 nút riêng biệt)
+
+
+Ý tưởng 2: chế tạo ngàm kẹp đa dụng và sử dụng cảm biến quang xác nhận việc kẹp phôi tha cho
+cảm biến trên xylanh kẹp
+lý : 2 ngàm trên mỏ kẹp khí nén  không phải có chức năng kẹp, và nếu dùng chỉ kẹp được đúng 1 kích thước phôi duy nhất
+cách: tạo ngàm kẹp và vị trí ngắn cảm biến quang
+
+
+Cải tiến3: ngăng không cho mỏ kẹp mở ra khi nhấn ems (có phôi)
+cách: dùng van 5/3, hoặc cảm biến quang xác nhận có phôi và nhấn ems thì vẫn dữ hoạt động đó, cách 3: thay đổi vị trí ban đầu của mỏ kẹp
+
+
+
+Cải tiến 4: làm hệ thống alarm cho báo xxy lanh bị kẹt 
+
+cách: (plc)
+
+
